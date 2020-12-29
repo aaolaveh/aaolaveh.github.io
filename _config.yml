@@ -8,7 +8,8 @@ logo: favicon/favicon.ico
 owner:
   name: Astrid A. Olave H.
   avatar: astrid.jpg
-  bio: "I'm a master student of Applied Mathematics in <a href="https://unal.edu.co/" > La Universidad Nacional de Colombia </a>"
+  bio: "I'm a master student of Applied Mathematics in La Universidad Nacional de Colombia "
+  #<a href="https://unal.edu.co/" > La Universidad Nacional de Colombia </a>
   email: aaolaveh@unal.edu.co
   # Do not include the @ symbol in your Twitter username
   twitter: #username
