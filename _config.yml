@@ -6,9 +6,9 @@ logo: favicon/favicon.ico
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Astrid Olave
-  avatar: Astrid.jpg
-  bio: "I'm a master student of Applied Mathematics in La Universidad Nacional de Colombia </a>"
+  name: Astrid A. Olave H.
+  avatar: astrid.jpg
+  bio: "I'm a master student of Applied Mathematics in <a href="https://unal.edu.co/" > La Universidad Nacional de Colombia </a>"
   email: aaolaveh@unal.edu.co
   # Do not include the @ symbol in your Twitter username
   twitter: #username
