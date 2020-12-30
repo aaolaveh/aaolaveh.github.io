@@ -14,11 +14,11 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	background-color: #000 !important;
-	color: #FFF;
+	background-color: $black;
+	color: $white;
 	padding: 2em 0 1em;
 	font-family: $heading-font;
-	font-weight: 700;
+	font-weight: 800;
 	text-transform: uppercase;
 	@include clearfix;
 	border-bottom-style: solid;
