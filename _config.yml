@@ -8,7 +8,8 @@ logo: favicon/favicon.ico
 owner:
   name: Astrid A. Olave H.
   avatar: astrid.jpg
-  bio: "I'm a master student of Applied Mathematics in La Universidad Nacional de Colombia "
+  bio1: " Mathematics is the language in which God has written the universe" 
+  bio2: "-Attributed to Galileo Galilei"
   email: aaolaveh@unal.edu.co
   # Do not include the @ symbol in your Twitter username
   twitter: #username
