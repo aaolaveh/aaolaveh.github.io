@@ -14,8 +14,7 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	background-color: $black;
-	color: $white;
+	background-color: $text-color;
 	padding: 2em 0 1em;
 	font-family: $heading-font;
 	font-weight: 800;
