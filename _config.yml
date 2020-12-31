@@ -63,7 +63,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - ekyll-scholar
+  - jekyll-scholar
 
 kramdown:
   auto_ids: true
