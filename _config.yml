@@ -63,6 +63,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - ekyll-scholar
 
 kramdown:
   auto_ids: true
@@ -70,6 +71,30 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+  
+-----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+
+  style: apa
+  locale: en
+
+  source: /_bibliography/
+  bibliography: articles.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+#
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
