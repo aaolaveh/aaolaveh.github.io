@@ -7,8 +7,5 @@ excerpt: Papers
 
 {% bibliography -f articles %}
 
-<!--> <h2> Preprints </h2>
-
-{% bibliography -f copia %}
 
 
