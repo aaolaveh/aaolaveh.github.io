@@ -11,5 +11,4 @@ excerpt: Papers
 
 {% bibliography -f copia %}
 
-<-->
 
