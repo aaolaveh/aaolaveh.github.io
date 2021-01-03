@@ -1,5 +1,5 @@
 ---
-layout: my_home
+layout: page
 excerpt: "Research"
 ---
 

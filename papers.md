@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: paper
 excerpt: Papers
 ---
 

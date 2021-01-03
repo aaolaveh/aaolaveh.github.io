@@ -78,12 +78,15 @@ kramdown:
 
 scholar:
 
-  style: apa
+  style: decision-sciences
   locale: en
+  
+  sort_by: year
+  order: descending
 
   source: /_bibliography/
   bibliography: articles.bib
-  bibliography_template: bib
+  bibliography_template: bib2
 
   replace_strings: true
   join_strings: true

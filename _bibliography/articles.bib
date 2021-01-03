@@ -1,6 +1,7 @@
 @article{Georgiou2020,
   doi = {10.1016/j.tcs.2020.03.004},
   url = {https://doi.org/10.1016/j.tcs.2020.03.004},
+  arxiv = {1409.6365},
   year = {2020},
   month = jun,
   publisher = {Elsevier {BV}},
@@ -8,7 +9,10 @@
   pages = {1--16},
   author = {Konstantinos Georgiou and Andy (Jia) Jiang and Edward Lee and Astrid A. Olave and Ian Seong and Twesh Upadhyaya},
   title = {Lift {\&} project systems performing on the partial-vertex-cover polytope},
-  journal = {Theoretical Computer Science}
+  journal = {Theoretical Computer Science},
+  abstract = {We study integrality gap (IG) lower bounds on strong LP and SDP relaxations derived by the Sherali-Adams (SA), Lovász-Schrijver-SDP (LS+), Sherali-Adams-SDP (SA+), and Lasserre-SDP (La) lift-and-project (L&P) systems for the t-Partial-Vertex-Cover (t-PVC) problem, a variation of the classic Vertex-Cover problem in which only t edges need to be covered. t-PVC admits a 2-approximation using various algorithmic techniques, all relying on a natural LP relaxation. With starting point this LP relaxation, our main results assert that for every , level- LPs or SDPs derived by all known L&P systems that have been used for positive algorithmic results (but the Lasserre hierarchy) have IGs at least , where n is the number of vertices of the input graph. Our lower bounds are nearly tight, in that level-n relaxations, even of the weakest systems, have integrality gap 1. Additionally, we give a  integrality gap for the Level-1 Lasserre system and a superconstant general integrality gap for all Level- Lasserre derived SDPs.
+
+As lift-and-project systems have given the best algorithms known for numerous combinatorial optimization problems, our results show that restricted yet powerful models of computation derived by many L&P systems fail to witness c-approximate solutions to t-PVC for any constant c, and for . As further motivation for our results, we show that the SDP that has given the best algorithm known for t-PVC has integrality gap  on instances that can be solved by the level-1 LP relaxation derived by the LS system. This constitutes another rare phenomenon where (even in specific instances) a static LP outperforms an SDP that has been used for the best approximation guarantee for the problem at hand. Finally, we believe our results are of independent interest as they are among the very few known integrality gap lower bounds for LP and SDP 0-1 relaxations in which not all variables possess the same semantics in the underlying combinatorial optimization problem. To achieve our results, we utilize a common methodology of constructing solutions to LP relaxations that almost trivially satisfy constraints derived by all SDP L&P systems known to be useful for algorithmic positive results (except the La system). The latter sheds some light as to why La tightenings seem strictly stronger than LS+ or SA+ tightenings.}
 }
 
 

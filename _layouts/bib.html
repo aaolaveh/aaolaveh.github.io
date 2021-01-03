@@ -1,6 +1,8 @@
 ---
 ---
 
+<!-- From https://github.com/alshedivat/al-folio -->
+
 <div class="row">
   <div class="col-sm-2 abbr">
   {% if entry.abbr %}
@@ -16,7 +18,7 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title">{{entry.title}}</div>
+      <div class="title"><a href= "{{entry.url}}" target = "blank" > {{entry.title}} </a> </div>
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
@@ -74,7 +76,7 @@
       <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
     {% endif %}
     {% if entry.arxiv %}
-      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank"> arXiv</a>
     {% endif %}
     {% if entry.html %}
       <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>

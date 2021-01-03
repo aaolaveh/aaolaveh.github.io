@@ -383,7 +383,7 @@ $button-size: 1.5rem;
 	display: none;
 	.bio-photo {
 		max-width: 110px;
-		@include rounded(150px);
+		@include rounded(160px);
 	}
 	@media #{$small} {
 		display: block;
@@ -449,14 +449,8 @@ $button-size: 1.5rem;
 
 /* Post content wrapper */
 .article-wrap {
-	// Dotted line underlines for links
-	p > a,
-	p > em > a,
-	p > strong > a,
-	li > a {
-		color: lighten($highlightcolor, 50) ;
-		text-decoration: none ;
-	}
+	margin:  auto;
+	overflow: auto;
 }
 
 /* Table of contents */
@@ -739,6 +733,7 @@ $button-size: 1.5rem;
 	border-color: lighten($black,50);
 	@include rounded(3px);
 }
+
 #goog-wm-sb {
 	@extend .btn;
 }
