@@ -1,4 +1,4 @@
 ---
-layout: post-index
+layout: OG_post-index
 title: All Blog Posts
 ---
