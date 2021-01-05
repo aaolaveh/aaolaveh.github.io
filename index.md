@@ -7,6 +7,7 @@ excerpt: "About Me..."
 
 <p> My current research is in topological analysis (<a href="https://diglib.eg.org/handle/10.2312/SPBG.SPBG07.091-100" target=_blank > Mapper </a>) applied to dynamic brain networks. </p>
 
+More information can be found in my <a href="./CV_Astrid_Olave.pdf" target=_blank> CV </a>. 
 
 <h2> Research interests: </h2>
 
@@ -15,4 +16,6 @@ excerpt: "About Me..."
 <li> Topological data analysis:
 Foundations and applications 
 <li> Computational biology 
+
+
 
