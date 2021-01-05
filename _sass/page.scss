@@ -246,6 +246,10 @@ $button-size: 1.5rem;
 			@include prefix(12,0);
 			@include suffix(12,0);
 		}
+		@media #{$x-large} {
+			@include grid(12,6);
+		}
+		
 	}
 	.page2{
 		@extend .page;
@@ -255,7 +259,6 @@ $button-size: 1.5rem;
 		}
 	}
 }
-
 /* Index listing specific styling */
 #index {
 	@include container;
@@ -389,9 +392,9 @@ $button-size: 1.5rem;
 		max-width: 110px;
 		@include rounded(160px);
 	}
-	/*@media #{$micro}{
-		display: block;
-		float: center; 
+	@media #{$micro}{
+		display: flex;
+  		justify-content: center;
 		.bio-photo {
 			max-width: 150px;
 			@include rounded(160px);
@@ -400,7 +403,7 @@ $button-size: 1.5rem;
 		.author-social{
 			display: none;
 		}
-	}*/
+	}
 	@media #{$small} {
 		display: block;
 		@include grid(12,2);
@@ -423,7 +426,7 @@ $button-size: 1.5rem;
 			margin-bottom: 5px;
 		}
 	}
-	@media #{$large} {
+	@media #{$medium} {
 		h3,
 		.bio-photo,
 		p,
@@ -431,9 +434,23 @@ $button-size: 1.5rem;
 			max-width: 150px;
 		}
 	}
+	@media #{$large} {
+		h3,
+		.bio-photo,
+		p,
+		.author-social {
+			max-width: 175px;
+		}
+	}
 	@media #{$x-large} {
-		@include grid(12,1.5);
+		@include grid(12,2);
 		@include prefix(12,2);
+		h3,
+		.bio-photo,
+		p,
+		.author-social {
+			max-width: 200px;
+		}
 	}
 }
 
