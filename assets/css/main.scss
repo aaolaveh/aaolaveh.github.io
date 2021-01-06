@@ -16,6 +16,7 @@ $highlightcolor: {{ site.highlight-color }};
 $lowlightcolor: {{ site.lowlight-color }};
 @import "variables";
 @import "paper";
+@import "research";
 @import "grid";
 @import "mixins";
 @import "normalize";
