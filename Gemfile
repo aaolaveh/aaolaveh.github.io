@@ -7,4 +7,4 @@ gem "jekyll-gist"
 gem "octopress"
 gem "kramdown-parser-gfm"
 gem 'jekyll-scholar'
-
+gem 'github-pages'
