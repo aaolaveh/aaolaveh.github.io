@@ -1,16 +1,15 @@
 # Site navigation links
 - title: Home
   url: /
- 
+
 - title: Research
   url: /research/
 
+- title: Teaching
+  url: /teaching/
+
+- title: CV
+  url: /resume/
+
 - title: Papers
   url: /papers/
- 
-
-  
-  
-  
-
-
