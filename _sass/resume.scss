@@ -115,6 +115,16 @@ em {
     float: right;
 }
 
+.dropdown{
+  code{
+    font: normal normal;
+    float: right;
+    color: #000;
+    padding-right: .5em;
+    text-indent: 0px;
+  }
+
+}
 a:hover {
   color: $highlightcolor;
 }
