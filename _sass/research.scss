@@ -12,15 +12,14 @@
 .research article, aside, details, figcaption, figure, footer, header, hgroup, img, menu, nav, section {
   display: block;
   }
-  
+
 .research h1, h2, h3, h4 {
   font-weight: 400;
   }
- 
 
 .research h2 {
   	font-size: 1.5em;
-  	color: $highlightcolor !important; 
+  	color: $highlightcolor !important;
   	position: relative;
   	text-align: left;
   	margin-top: 1.7em;
@@ -36,10 +35,7 @@
      float: left;
      width: 45%;
      @media #{$micro}{
-     	width: 100%;
+     width: 100%;
      }
   }
 }
-
-
-

@@ -3,23 +3,26 @@ layout: OG_resume
 excerpt: "Teaching"
 ---
 
-## Currently
+## Current
 
-`Summer 23`
-MTH314 - __Matrix Algebra with
-Computational Applications__
-Instructor for section 101 (<a href="https://michiganstate-my.sharepoint.com/:o:/g/personal/olaveher_msu_edu/Eizk9r3ulUJKsnaMmt6O_MIBU5LGPPLVzmhI2309iSLMEg?e=QaJvKk" target=_blank > Class notes </a>)
+<p>
+<strong> MTH314 - Matrix Algebra with
+Computational Applications </strong> <br>
+ <li> Summer 2023: <a href="https://michiganstate-my.sharepoint.com/:o:/g/personal/olaveher_msu_edu/Eizk9r3ulUJKsnaMmt6O_MIBU5LGPPLVzmhI2309iSLMEg?e=QaJvKk" target=_blank > Class notes </a> </li>
+</p>
 
 ## Michigan State University
+<p>
+<strong> MTH133 - Calculus II </strong> <br>
+ <li> Spring 2023: Teaching Assistant </li>
+</p>
 
-`Spring 2023`
-MTH 133 - __Calculus II__
-Teaching assistant
+<p>
+<strong> MTH132 - Calculus I </strong> <br>
+ <li> Fall 2022: Teaching Assistant </li>
+</p>
 
-`Fall 2022`
-MTH 132 - __Calculus I__
-Teaching assistant
-
-`Fall 2021`
-MTH 124 - __Survey of Calculus I__
-Teaching assistant
+<p>
+<strong> MTH124 - Survey of calculus I </strong> <br>
+ <li> Fall 2021: Teaching Assistant </li>
+</p>

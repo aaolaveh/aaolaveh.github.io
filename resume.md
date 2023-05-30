@@ -1,57 +1,85 @@
 ---
 layout: OG_resume
+excerpt: CV
 ---
-## Currently
 
-`2021-Present`
-__Michigan State University__
-Ph.D. in Mathematics (Advisor: Elizabeth Munch)
+## Current
+  <div class = "row">
+      <div class="column left">
+          <p> <code> 2023 </code> </p>
+      </div>
+      <div class="column right">
+          <strong> Michigan State University </strong>
+          <p> Ph.D. in Mathematics (Advisor: Elizabeth Munch) </p>
+      </div>
+  </div>
 
 ## Education
 
-`2021`
-__Universidad Nacional de Colombia__
-M.Sc. in Applied Mathematics
+<div class = "row">
+    <div class="column left">
+        <p> <code> 2021 </code> </p>
+    </div>
+    <div class="column right">
+        <strong> Universidad Nacional de Colombia </strong>
+        <p> M.Sc. in Applied Mathematics</p>
+    </div>
+</div>
 
-`2018`
-__Universidad Nacional de Colombia__
-B.Sc. with Honors in Mathematics
+<div class = "row">
+    <div class="column left">
+        <p> <code> 2018 </code> </p>
+    </div>
+    <div class="column right">
+        <strong> Universidad Nacional de Colombia </strong>
+        <p> B.Sc. with Honors in Mathematics</p>
+    </div>
+</div>
 
 ## Awards
 
-`2019`
-Scholarship for complete tuition for M.Sc programs, Universidad Nacional de Colombia
+<div class = "row">
+    <div class="column left">
+        <p> <code> 2019 </code> </p>
+    </div>
+    <div class="column right">
+        <p> Scholarship for complete tuition for M.Sc programs, Universidad Nacional de Colombia </p>
+    </div>
+</div>
 
-`2013-2018`
-Exemption from payment for best average, Universidad Nacional de Colombia
+<div class = "row">
+    <div class="column left">
+        <p> <code> 2013-2018 </code> </p>
+    </div>
+    <div class="column right">
+        <p> Exemption from payment for best average, Universidad Nacional de Colombia </p>
+    </div>
+</div>
 
-## Publications
+## Teaching
+
+<div class = "row">
+    <div class="column left">
+        <p> <code> 2021-2023 </code> </p>
+    </div>
+    <div class="column right">
+        <p> Graduate Teaching Assistant at Michigan State University </p>
+    </div>
+</div>
 
 
-<!-- ### Journals
-`1994`
-Article Title, Journal Title
 
-`1994`
-Article Title, Journal Title
+
+
+<!-- ## Publications
+
+### Journals
 
 ### Books
 
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title -->
-
 ## Presentations
 
-<div class="dropdown">
-  <h2> Teaching </h2>
-
-  <code> 2019 </code>
-  Scholarship for complete tuition for M.Sc programs, Universidad Nacional de Colombia
-</div>
-<!-- ## Occupation
+## Occupation
 
 `Current`
 __Current Job Title__, Current Employer

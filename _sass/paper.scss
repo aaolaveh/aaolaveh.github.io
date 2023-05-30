@@ -51,7 +51,6 @@
       margin-top: 0.25em;
   }
 
-
 .paper li ul {
   position: relative;
   left: 0;
@@ -74,7 +73,7 @@
 
 .paper h2 {
   font-size: 1.5em;
-  color: $highlightcolor;
+  color: $highlightcolor !important;
   position: relative;
   text-align: left;
   margin-top: 1.7em;
@@ -130,6 +129,3 @@ div#paper.paper{
      cursor: pointer;
   }
 }
-
-
-
