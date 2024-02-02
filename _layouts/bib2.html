@@ -3,19 +3,19 @@
 
 <!-- Elements from https://gykovacsblog.wordpress.com/tag/jekyll-scholar/ and
 https://github.com/alshedivat/al-folio -->
- 
+
 <div class="text-justify">{{reference}}</div>
 
     <div class="links">
 
        {% if entry.doi %}
-    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" class="button" role="button" target="_blank">Published Version</a>
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" class="button" role="button" target="_blank"> Published Version</a>
 {% endif %}
-    
+
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="button" role="button" target="_blank">arXiv Version</a>
     {% endif %}
-    
+
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}
       <a href="{{ entry.pdf }}" class="button" role="button" target="_blank">PDF</a>
@@ -23,7 +23,7 @@ https://github.com/alshedivat/al-folio -->
       <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="button" role="button" target="_blank">PDF</a>
       {% endif %}
     {% endif %}
-    
+
     {% if entry.supp %}
       {% if entry.supp contains '://' %}
       <a href="{{ entry.supp }}" class="button" role="button" target="_blank">Supp</a>
@@ -31,15 +31,15 @@ https://github.com/alshedivat/al-folio -->
       <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="button" role="button" target="_blank">Supp</a>
       {% endif %}
     {% endif %}
-    
+
     {% if entry.blog %}
       <a href="{{ entry.blog }}" class="button" role="button" target="_blank">Blog</a>
     {% endif %}
-    
+
     {% if entry.code %}
       <a href="{{ entry.code }}" class="button" role="button" target="_blank">Code</a>
     {% endif %}
-    
+
     {% if entry.poster %}
       {% if entry.poster contains '://' %}
       <a href="{{ entry.poster }}" class="button" role="button" target="_blank">Poster</a>
@@ -47,7 +47,7 @@ https://github.com/alshedivat/al-folio -->
       <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="button" role="button" target="_blank">Poster</a>
       {% endif %}
     {% endif %}
-    
+
     {% if entry.slides %}
       {% if entry.slides contains '://' %}
       <a href="{{ entry.slides }}" class="button" role="button" target="_blank">Slides</a>
@@ -55,26 +55,25 @@ https://github.com/alshedivat/al-folio -->
       <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="button" role="button" target="_blank">Slides</a>
       {% endif %}
     {% endif %}
-    
+
     {% if entry.website %}
       <a href="{{ entry.website }}" class="button" role="button" target="_blank">Website</a>
     {% endif %}
-    
+
    </div>
    <div class="links">
     {% if entry.abstract %}
-    	
-    	<button class="button2"  onclick="toggleBibtex('Abs')">Abstract >> </button>  
+
+    	<button class="button2"  onclick="toggleBibtex('Abs')">Abstract >> </button>
 
     {% endif %}
-    
-    	<button class="button2"  onclick="toggleBibtex('Bibtex')">Bibtex >> </button>  
+
+    	<button class="button2"  onclick="toggleBibtex('Bibtex')">Bibtex >> </button>
     </div>
-    
 
 <div id="Bibtex" style="display: none;">
 <pre>{{entry.bibtex}}</pre>
-</div>  
+</div>
 
 <div id="Abs" style="display: none;">
 <p> {{entry.abstract}} </p>
@@ -90,6 +89,3 @@ function toggleBibtex(parameter) {
     }
 }
 </script>
-
-
-
