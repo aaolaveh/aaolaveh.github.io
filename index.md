@@ -9,7 +9,7 @@ I'm a doctoral student of mathematics at <a href="https://msu.edu/" target=_blan
 
 Prior to MSU, I completed my MSc in Applied Mathematics in <a href="https://unal.edu.co/" target=_blank > La Universidad Nacional de Colombia </a> in 2021. I completed my B.Sc in Mathematics at the same university (with honors) in 2018.
 
-Currently I am working with interleaving distances defined on partial ordered sets.
+Currently I am working bounding interleaving distances on concrete categories using a loss function and a family of interleaving distances defined on partial ordered sets.
 
 More information can be found in my <a href="../docs/CV_Astrid_Olave.pdf" target=_blank> CV </a>.
 

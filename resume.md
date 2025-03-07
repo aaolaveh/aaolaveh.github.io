@@ -6,7 +6,7 @@ excerpt: CV
 ## Current
   <div class = "row">
       <div class="column left">
-          <p> <code> 2023 </code> </p>
+          <p> <code> 2025 </code> </p>
       </div>
       <div class="column right">
           <strong> Michigan State University </strong>
@@ -60,7 +60,7 @@ excerpt: CV
 
 <div class = "row">
     <div class="column left">
-        <p> <code> 2021-2023 </code> </p>
+        <p> <code> 2021-2025 </code> </p>
     </div>
     <div class="column right">
         <p> Graduate Teaching Assistant at Michigan State University </p>

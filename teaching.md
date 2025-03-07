@@ -6,11 +6,18 @@ excerpt: "Teaching"
 ## Current
 <p>
 <strong> MTH103B - College Algebra </strong> <br>
- <li> Fall 2024: Instructor </li>
+ <li> Spring 2025: Instructor </li>
 </p>
 
 
 ## Michigan State University
+
+<p>
+<strong> MTH103B - College Algebra II </strong> <br>
+ <li> Fall 2024: Instructor </li>
+</p>
+
+
 <p>
 <strong> MTH234 - Calculus III </strong> <br>
  <li> Spring 2024: Teaching Assistant </li>
