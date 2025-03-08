@@ -9,7 +9,7 @@
 }
 
 
-.research article, aside, details, figcaption, figure, footer, header, hgroup, img, menu, nav, section {
+.research article, aside, details, figcaption, figure, footer, header, hgroup, img, iframe, menu, nav, section {
   display: block;
   }
 
@@ -30,6 +30,25 @@
      padding: 0 0 15px;
      border-bottom: 1px solid lighten($black,70);
   }
+  .fluid-width-video-wrapper {
+    padding-top: 30% !important;
+    margin-right: 10px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    float: left;
+    width : 45%;
+    height: auto;
+    @media #{$micro}{
+    padding-top: 56.25% !important;
+    width: 100%;
+    height: auto;
+    }
+    iframe {
+       display: flex;
+       float: left;
+       }
+    }
   img{
      display: flex;
      float: left;

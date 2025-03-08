@@ -5,7 +5,7 @@ excerpt: "Teaching"
 
 ## Current
 <p>
-<strong> MTH103B - College Algebra </strong> <br>
+<strong> MTH103B - College Algebra II</strong> <br>
  <li> Spring 2025: Instructor </li>
 </p>
 
