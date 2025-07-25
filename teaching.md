@@ -1,46 +1,17 @@
 ---
-layout: OG_resume
-excerpt: "Teaching"
+layout: research
 ---
 
-## Current
-<p>
-<strong> MTH103B - College Algebra II</strong> <br>
- <li> Spring 2025: Instructor </li>
-</p>
+I decided to pursue a PhD because I want to be a professor. My end goal is nurturing the mathematical learning of my students through a holistic approach of their humanity. If you are curious on how these ideas shape my teaching, you can explore my <a href="../docs/teaching_statement.pdf" target=_blank > full statement </a>
 
+<div class="block">
+      <h2> Teaching Experience </h2>
+           <p> This is my <a href="/teaching_experience/" target=_self>  teaching experience </a>  in a broad range of mathematics courses, from foundational to more advanced levels. I am passionate about helping students to obtain the mathematical skills they need to thrive in their academic and professional goals.  </p>
 
-## Michigan State University
+</div>
 
-<p>
-<strong> MTH103B - College Algebra II </strong> <br>
- <li> Fall 2024: Instructor </li>
-</p>
+<div class="block">
+      <h2> Certification in College Teaching (CCT) </h2>
+           <p> This  <a href="/Portfolio/teaching_portfolio/" target=_self> portfolio </a> presents the learning experiences completed as part of the CCT program offered by Michigan State University. These include participating in a series of teaching-focused workshops, attending a course on teaching college mathematics and conducting a mentored  research project on how students perceive an AI tutor in college algebra. </p>
 
-
-<p>
-<strong> MTH234 - Calculus III </strong> <br>
- <li> Spring 2024: Teaching Assistant </li>
-</p>
-
-
-<p>
-<strong> MTH314 - Matrix Algebra with
-Computational Applications </strong> <br>
- <li> Summer 2023: Instructor. See my <a href="https://michiganstate-my.sharepoint.com/:o:/g/personal/olaveher_msu_edu/Eizk9r3ulUJKsnaMmt6O_MIBU5LGPPLVzmhI2309iSLMEg?e=QaJvKk" target=_blank > Class notes </a> </li>
-</p>
-
-<p>
-<strong> MTH133 - Calculus II </strong> <br>
- <li> Spring 2023: Teaching Assistant </li>
-</p>
-
-<p>
-<strong> MTH132 - Calculus I </strong> <br>
- <li> Fall 2022: Teaching Assistant </li>
-</p>
-
-<p>
-<strong> MTH124 - Survey of calculus I </strong> <br>
- <li> Fall 2021: Teaching Assistant </li>
-</p>
+</div>
