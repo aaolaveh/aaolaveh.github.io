@@ -1,8 +1,8 @@
 ---
-layout: research
+layout: teaching
 ---
 
-This  <a href="/Portfolio/teaching_portfolio/" target=_self> portfolio </a> presents the gaining of five teaching competency areas.
+This portfolio presents the gaining of five teaching competency areas.
 
 <div class="block">
       <h2> <u> <a href="/Portfolio/1Teaching_math/" target=_self> 1) Teaching College Mathematics

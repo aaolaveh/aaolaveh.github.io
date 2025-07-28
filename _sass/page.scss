@@ -246,7 +246,7 @@ $button-size: 1.5rem;
 			@include suffix(12,0);
 		}
 		@media #{$x-large} {
-			@include grid(12,6);
+			@include grid(12,8);
 		}
 
 	}
@@ -257,6 +257,7 @@ $button-size: 1.5rem;
 		@media #{$micro}{
 			@include push(12,0);
 		}
+		width: 65%;
 	}
 }
 /* Index listing specific styling */

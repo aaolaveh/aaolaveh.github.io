@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: teaching
 ---
 
 I decided to pursue a PhD because I want to be a professor. My end goal is nurturing the mathematical learning of my students through a holistic approach of their humanity. If you are curious on how these ideas shape my teaching, you can explore my <a href="../docs/teaching_statement.pdf" target=_blank > full statement </a>
