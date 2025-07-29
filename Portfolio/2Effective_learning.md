@@ -32,7 +32,7 @@ It has been proved that active learning can increase student performance in STEM
 
 <div class="block">
       <h2> Reflection </h2>
-	<p> As educators, the promotion of active learning practices is fundamental to achieving effective and engaging instruction. I developed this competency by attending the "Infusing Active Learning with Inclusive Practices" workshop and the class "<a href="/Portfolio/1Teaching_math/" target=_self> Teaching College Mathematics
+	<p> As educators, the promotion of active learning practices is fundamental to achieving effective and engaging instruction. I developed this competency by attending the <em> Infusing Active Learning with Inclusive Practices </em> workshop and the class <em> <a href="/Portfolio/1Teaching_math/" target=_self> Teaching College Mathematics </em>
 </a> ".
 
 I recognized that I was already using inclusive teaching strategies like:

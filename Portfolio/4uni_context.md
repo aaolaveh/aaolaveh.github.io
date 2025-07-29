@@ -4,14 +4,50 @@ layout: research
 
 ---
 
-
-
 <h1> Understanding the University Context </h1>
 
+This competency emphasizes recognizing that the teaching environment extends beyond the classroom to the broader institution and using this awareness, to make informed and appropriate decisions in both teaching and professional practice.  It involves  understanding the university’s mission, vision, and values, the type of institution, its physical and academic resources, as well as students' demographics and culture's institution. 
+
+<div class="block">
+      <h2> Description </h2>
+<p>
+As educators, we should recognize that the teaching environment goes beyond the classroom. A complex interplay of factors, shapes and constrains our role as knowledge communicators.
+</p>
+<p>
+
+To start with, the university's mission, vision, and values, as well as its specific type, shape the academic culture and the overall expectations of our activities in the classroom. Similarly, within the department, faculty superiors, the curriculum, and the structure of courses further define the guidelines of our classes. Finally, our students are influenced by the mentioned factors and bring their diverse backgrounds to the classroom like various levels of educational preparation, socioeconomic circumstances and cultural perspectives. 
+</p>
+<p>
+
+From all these elements, the institutional factor has a huge impact on the job application process. First of all, the institution’s country. We live in a globalized world, and it is not rare to apply for jobs outside the US, especially for international graduate students. But that itself carries their own challenges. For example, I there are 3931 post-secondary institutions in the U.S. and 1345  of them offer a 4-year program in Math. In contrast, there are only 221  post-secondary institutions in Colombia and 41  of them offer a bachelor in Math. Therefore, job prospects constrains our role as math educators.
+</p>
+<p>
+
+A second factor to consider is the type of institution. In the US higher education includes research universities, comprehensive universities, liberal arts colleges, community colleges, minority-serving institutions and for-profit institutions. Each of these may operate as public, private, religiously affiliated, or fully online institutions. As a result, each type of institution carries its own academic culture, priorities, and expectations that educators should carefully consider when applying for positions. Moreover, each institution embeds its educational philosophy in its mission, vision and values statements. When the expectations of the institution align with the career aspirations of the educator, both benefit, creating the basis for a more productive and rewarding professional experience.
+</p>
+
+</div>
+
+<div class="block">
+      <h2> Reflection </h2>
+<p>
+
+I developed this competency by participating in the <em> Understanding the University Context— Aligning Teaching w/ Different Institutional Types & Missions </em> workshop and my own experience in Michigan State University (MSU). I have come to understand that my teaching is shaped and constrained by the academic culture, priorities, and expectations of MSU. For instance, MSU has a large student population, then I have designed instructional approaches that are effective for large classes while ensuring that all students feel supported and included.
+</p>
+<p>
+The most significant insight from the workshop was recognizing how crucial 
+is the institutional factor in my job application process for academic positions, aligning my teaching values with the educational philosophy of an institution is key for professional thrive. To this end, I have reflected on my own values and career goals as a mathematics educator: to help students gain the mathematical skills for their academic and professional success, while supporting their holistic development and recognizing that their lives extend beyond the classroom.
+</p>
+<p>
+After reflecting on my own values and career goals, I have started to identify characteristics of institutions that would be a good professional fit. First, considering the wide range of U.S. institutions offering four-year programs in mathematics, I recognize that the most abundant opportunities currently exist in this country. Second, I have started to examine which types of institutions align most closely with me. My ideal position would involve a balance of 75% teaching, serving personally undergraduate students on their mathematical journey and 25% research, ideally involving collaborative projects with students This vision points me toward comprehensive universities, liberal arts colleges, or R2 institutions that value meaningful research opportunities for undergraduates in smaller, more engaged academic settings. Also, I am a devoted catholic. Hence, my religious values align well with a  religiously affiliated college where I would even be expected to share my faith with students, thus a catholic institution would be ideal as well.
+</p>
+<p>
+With this in mind, I will begin my job search with a more focused and intentional approach. I will start by considering the institutions that best align with my career goals reviewing carefully its mission, vision, and values. I will then craft a teaching philosophy statement that authentically reflects my own values while aligning with the institution’s expectations. This whole process will help the institution see me as a candidate who shares their educational philosophy and is eager to contribute to their mission, while I, as a candidate, can secure a fulfilling position that aligns with my values and career goals, leading to a more productive and rewarding work experience. 
+
+</p>  
+</div>
 
 
-
-Here comes something ...
 
 
 

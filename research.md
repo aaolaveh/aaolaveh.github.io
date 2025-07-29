@@ -3,6 +3,8 @@ layout: research
 excerpt: "Research"
 ---
 
+<h1> Research </h1>
+
 <div class="block">
       <h2> Generalizing the interleaving distance using categorical flows </h2>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxar6UuoGSk?si=k_5sWxVaCWNm8EBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

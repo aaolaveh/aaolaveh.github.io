@@ -40,6 +40,15 @@ excerpt: CV
 
 <div class = "row">
     <div class="column left">
+        <p> <code> 2021 </code> </p>
+    </div>
+    <div class="column right">
+        <p> Mathematics Recruiting Fellowship, Michigan State University </p>
+    </div>
+</div>
+
+<div class = "row">
+    <div class="column left">
         <p> <code> 2019 </code> </p>
     </div>
     <div class="column right">
