@@ -47,6 +47,33 @@ With this in mind, I will begin my job search with a more focused and intentiona
 </p>  
 </div>
 
+<div class="block">
+      <h2> Artifacts & materials </h2>
+
+Below you can find the slides of the <em>Integrating Technology in Teaching</em>  workshop 
+</p>
+
+<div class="buttons">
+<form action="/docs/workshops/Core competency 4 University Context artifact 1.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Workshop slides </button></form>
+
+<form action="/docs/workshops/Core competency 4 University Context artifact 2.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Types of postsecondary institutions </button></form>
+
+<form action="/docs/workshops/Core competency 4 University Context artifact 3.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Samples of institutional statements </button></form>
+
+
+</div>
+
+
+<p>
+Here you can see the notes I took  
+</p>
+<div class="buttons">
+<form action="/docs/workshops/Core competency 4 University Context material.pdf" class="form1" method="get" target="_blank"><button class="button_file"> My handwritten notes </button></form>
+</div>
+
+</div>
+
+
 
 
 

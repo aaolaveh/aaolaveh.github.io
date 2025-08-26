@@ -7,7 +7,7 @@ excerpt: "Teaching experience"
 
 I am passionate about helping students to obtain the mathematical skills they need to thrive in their academic and professional goals.  My end goal is nurturing their mathematical learning  through a holistic approach of their humanity.
 
-<form action="/Portfolio/teaching_portfolio/" method="get" target="_self"><button class="button"> Teaching Portfolio </button></form>
+<form action="/Portfolio/teaching_portfolio/" method="get" target="_self"><button class="button2"> Teaching Portfolio </button></form>
 
 
 ## Current

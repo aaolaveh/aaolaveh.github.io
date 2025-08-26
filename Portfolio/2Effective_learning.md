@@ -32,8 +32,7 @@ It has been proved that active learning can increase student performance in STEM
 
 <div class="block">
       <h2> Reflection </h2>
-	<p> As educators, the promotion of active learning practices is fundamental to achieving effective and engaging instruction. I developed this competency by attending the <em> Infusing Active Learning with Inclusive Practices </em> workshop and the class <em> <a href="/Portfolio/1Teaching_math/" target=_self> Teaching College Mathematics </em>
-</a> ".
+	<p> As educators, the promotion of active learning practices is fundamental to achieving effective and engaging instruction. I developed this competency by attending the <em> Infusing Active Learning with Inclusive Practices </em> workshop and the class <a href="/Portfolio/1Teaching_math/" target=_self> Teaching College Mathematics </a>.
 
 I recognized that I was already using inclusive teaching strategies like:
 
@@ -66,6 +65,33 @@ As I have gained more experience implementing these strategies, I have become be
 </p>
 </div>
 
+<div class="block">
+      <h2> Artifacts & materials </h2>
+
+<p>
+
+Below you can find the continuum of active learning strategies and the slides of the <em> Infusing Active Learning with Inclusive Practices </em> workshop 
+</p>
+
+<div class="buttons">
+
+<form action="/docs/workshops/Core competency 2 Effective learning artifact 2.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Workshop slides </button></form>
+
+<form action="/docs/workshops/Core competency 2 Effective learning artifact 1.pdf" class="form1" method="get" target="_blank"><button class="button_file"> The continuum of active learning strategies </button></form>
+
+
+</div>
+
+
+<p>
+Here you can see the notes I took  
+</p>
+<div class="buttons">
+<form action="/docs/workshops/Core competency 2 Effective learning material.pdf" class="form1" method="get" target="_blank"><button class="button_file"> My handwritten notes </button></form>
+</div>
+
+
+</div>
 
 		
 
