@@ -76,22 +76,14 @@ Building on the recommendations from the workshop <em>Integrating Technology in 
 
 <p>
 
-Below you can find the slides of the <em> Integrating Technology in Teaching</em>  workshop 
+Here you can find the slides of the <em> Integrating Technology in Teaching</em>  workshop. Note that most of the slides are focused on stablishing a SMART learning objective.
 </p>
 
 <div class="buttons">
 <form action="/docs/workshops/Core competency 3 Technology artifact.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Workshop slides </button></form>
 
 
-</div>
-
-
-<p>
-Here you can see the notes I took  
-</p>
-<div class="buttons">
 <form action="/docs/workshops/Core competency 3 Technology material.pdf" class="form1" method="get" target="_blank"><button class="button_file"> My handwritten notes </button></form>
-</div>
 
 </div>
 

@@ -4,6 +4,9 @@
 
 - title: Research
   url: /research/
+  sublinks:
+    - title: Papers
+      url: /papers/
 
 - title: Teaching
   url: /teaching/
@@ -15,8 +18,7 @@
 - title: CV
   url: /resume/
 
-- title: Papers
-  url: /papers/
+
 
 # - title: Resources
 #   url: /resources/

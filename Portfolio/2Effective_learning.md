@@ -32,9 +32,7 @@ It has been proved that active learning can increase student performance in STEM
 
 <div class="block">
       <h2> Reflection </h2>
-	<p> As educators, the promotion of active learning practices is fundamental to achieving effective and engaging instruction. I developed this competency by attending the <em> Infusing Active Learning with Inclusive Practices </em> workshop and the class <a href="/Portfolio/1Teaching_math/" target=_self> Teaching College Mathematics </a>.
-
-I recognized that I was already using inclusive teaching strategies like:
+	<p> As educators, the promotion of active learning practices is fundamental to achieving effective and engaging instruction. I developed this competency by attending the <em> Infusing Active Learning with Inclusive Practices </em> workshop and the class <a href="/Portfolio/1Teaching_math/" target=_self> Teaching College Mathematics</a>. I recognized that I was already using inclusive teaching strategies like:
 
 <ul>
   <li>Introducing myself in the first class and creating an introduction activity to get to know my students.</li>
@@ -70,23 +68,19 @@ As I have gained more experience implementing these strategies, I have become be
 
 <p>
 
-Below you can find the continuum of active learning strategies and the slides of the <em> Infusing Active Learning with Inclusive Practices </em> workshop 
+Below you can find the slides of Dr. Goldberg and Dr. Hokanson in the workshop <em> Infusing Active Learning with Inclusive Practices </em>  These slides define active learning and highlight its purpose in the classroom. One take away is that no learning strategy is not inherently better than another but their use depends on the goal and the learning context. We can order such strategies in a continuum , starting from short and unstructured task to more elaborated and complex tasks. 
+</p>
+
+<p>
+Next,  we watched a video of an embodied case study on group work in the classroom. From this, we concluded that as instructors, to create an effective learning, we should we establish clear guidelines to work in groups. For example, all members should have equal participation and support each other, specially if someone is struggling with the material. Finally, in small groups we reflected on the broader value of embodied case studies
 </p>
 
 <div class="buttons">
 
 <form action="/docs/workshops/Core competency 2 Effective learning artifact 2.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Workshop slides </button></form>
 
-<form action="/docs/workshops/Core competency 2 Effective learning artifact 1.pdf" class="form1" method="get" target="_blank"><button class="button_file"> The continuum of active learning strategies </button></form>
+<form action="/docs/workshops/Core competency 2 Effective learning artifact 2.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Continuum of learning strategies </button></form>
 
-
-</div>
-
-
-<p>
-Here you can see the notes I took  
-</p>
-<div class="buttons">
 <form action="/docs/workshops/Core competency 2 Effective learning material.pdf" class="form1" method="get" target="_blank"><button class="button_file"> My handwritten notes </button></form>
 </div>
 

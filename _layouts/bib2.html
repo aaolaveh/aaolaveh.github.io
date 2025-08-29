@@ -16,6 +16,10 @@ https://github.com/alshedivat/al-folio -->
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="button" role="button" target="_blank">arXiv Version</a>
     {% endif %}
 
+    {% if entry.biorxiv %}
+      <a href="https://www.biorxiv.org/content/10.1101/{{ entry.biorxiv }}" class="button" role="button" target="_blank">arXiv Version</a>
+    {% endif %}
+
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}
       <a href="{{ entry.pdf }}" class="button" role="button" target="_blank">PDF</a>
@@ -61,21 +65,22 @@ https://github.com/alshedivat/al-folio -->
     {% endif %}
 
    </div>
+
    <div class="links">
     {% if entry.abstract %}
 
-    	<button class="button2"  onclick="toggleBibtex('Abs')">Abstract >> </button>
+    	<button class="button2"  onclick="toggleBibtex('Abs-{{entry.key}}')"> Abstract >> </button>
 
     {% endif %}
 
-    	<button class="button2"  onclick="toggleBibtex('Bibtex')">Bibtex >> </button>
+    	<button class="button2"  onclick="toggleBibtex('Bibtex-{{entry.key}}')"> Bibtex >> </button>
     </div>
 
-<div id="Bibtex" style="display: none;">
+<div id="Bibtex-{{ entry.key }}" style="display: none;">
 <pre>{{entry.bibtex}}</pre>
 </div>
 
-<div id="Abs" style="display: none;">
+<div id="Abs-{{ entry.key }}" style="display: none;">
 <p> {{entry.abstract}} </p>
 </div>
 

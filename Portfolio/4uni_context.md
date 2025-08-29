@@ -50,13 +50,21 @@ With this in mind, I will begin my job search with a more focused and intentiona
 <div class="block">
       <h2> Artifacts & materials </h2>
 
-Below you can find the slides of the <em>Integrating Technology in Teaching</em>  workshop 
+<p>
+Below you can find the slides of Dr. Judith Stoddart for the workshop <em> Understanding the University Context— Aligning Teaching w/ Different Institutional Types & Missions </em>. We started our workshop by considering the number of postsecondary institutions in the USA as well as the different types of institutions in the country.
 </p>
+
+<p>
+The workshop highlighted that teaching and learning environments are larger than the classroom, encompassing the department, the students and the institution as a whole.  To illustrate, we examined a variety of institutional statements and identified the values each institution places on their students’ learning experiences. Finally, we considered how our own values align with those expressed by the institutions, particularly in the context of applying for academic positions.
+</p>
+
+
 
 <div class="buttons">
 <form action="/docs/workshops/Core competency 4 University Context artifact 1.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Workshop slides </button></form>
 
 <form action="/docs/workshops/Core competency 4 University Context artifact 2.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Types of postsecondary institutions </button></form>
+
 
 <form action="/docs/workshops/Core competency 4 University Context artifact 3.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Samples of institutional statements </button></form>
 
@@ -65,7 +73,7 @@ Below you can find the slides of the <em>Integrating Technology in Teaching</em>
 
 
 <p>
-Here you can see the notes I took  
+Also, you can see the notes I took in this workshop 
 </p>
 <div class="buttons">
 <form action="/docs/workshops/Core competency 4 University Context material.pdf" class="form1" method="get" target="_blank"><button class="button_file"> My handwritten notes </button></form>
