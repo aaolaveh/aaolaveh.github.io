@@ -40,10 +40,31 @@ excerpt: CV
 
 <div class = "row">
     <div class="column left">
+        <p> <code> 2025 </code> </p>
+    </div>
+    <div class="column right">
+        GTA Award for Excellence in Teaching 
+ 	<p> Michigan State University </p>
+    </div>
+</div>
+
+<div class = "row">
+    <div class="column left">
+        <p> <code> 2025 </code> </p>
+    </div>
+    <div class="column right">
+         Dr. Paul and Wilma Dressel Endowed Scholarship 
+	<p>Michigan State University </p>
+    </div>
+</div>
+
+<div class = "row">
+    <div class="column left">
         <p> <code> 2021 </code> </p>
     </div>
     <div class="column right">
-        <p> Mathematics Recruiting Fellowship, Michigan State University </p>
+         Mathematics Recruiting Fellowship 
+	 <p>Michigan State University </p>
     </div>
 </div>
 
@@ -52,7 +73,8 @@ excerpt: CV
         <p> <code> 2019 </code> </p>
     </div>
     <div class="column right">
-        <p> Scholarship for complete tuition for M.Sc programs, Universidad Nacional de Colombia </p>
+         Scholarship for complete tuition for M.Sc programs 
+ 	<p>Universidad Nacional de Colombia </p>
     </div>
 </div>
 
@@ -61,7 +83,8 @@ excerpt: CV
         <p> <code> 2013-2018 </code> </p>
     </div>
     <div class="column right">
-        <p> Exemption from payment for best average, Universidad Nacional de Colombia </p>
+       Exemption from payment for best average 
+      <p> Universidad Nacional de Colombia </p>
     </div>
 </div>
 
@@ -103,6 +126,8 @@ __Current Job Title__, Current Employer
 - Task    -->
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Click here to see <a href="../docs/CV_Astrid_Olave.pdf" target=_blank> full CV </a>
+
+Last updated: October 2025

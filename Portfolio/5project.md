@@ -31,7 +31,7 @@ Drawing on students’ perspectives, we identified several benefits of using Kha
 <h2> Reflection </h2>
 
 <p>
-Generative AI' is making a great impact on education. In my own tutoring practice, I observed that students are using AI tools like ChatGPT, Mathway or Photomath to solve their homework. While these tools can provide some help, I noticed some uninformed practices. For instance, students were frustrated they were not receiving correct answer from the tools unaware that they typed incorrect prompts. Meanwhile, others used the tools primarily as shortcuts to reach final solutions, missing the opportunity to engage in the problem-solving process. These habits limit their understanding and hinder the development of their mathematical reasoning. Recognizing this challenge, I wanted to explore the integration of AI into mathematical education and reflect on the tool’s  benefits and demonstrate how to use it responsibly.
+Generative AI is making a great impact on education. In my own tutoring practice, I observed that students are using AI tools like ChatGPT, Mathway or Photomath to solve their homework. While these tools can provide some help, I noticed some uninformed practices. For instance, students were frustrated they were not receiving correct answer from the tools unaware that they typed incorrect prompts. Meanwhile, others used the tools primarily as shortcuts to reach final solutions, missing the opportunity to engage in the problem-solving process. These habits limit their understanding and hinder the development of their mathematical reasoning. Recognizing this challenge, I wanted to explore the integration of AI into mathematical education and reflect on the tool’s  benefits and demonstrate how to use it responsibly.
 </p>
 
 <p>
@@ -51,7 +51,9 @@ This project offered me the opportunity to know first-hand how students interact
 <div class="block">
 <h2> Artifacts </h2>
 
+<p>
 Below, you can check the preliminaries of the project and a summary on how to conduct a qualitative research through interviews.
+</p>
 
 <div class="buttons">
 

@@ -22,11 +22,11 @@ This ability focuses on strategies that promote questioning, comparison of ideas
   <li>Foster communication skills.</li>
 </ul>
 <br>
-There are different strategies for active learning that can be ordered in a spectrum that ranges from simple to complex tasks. Complex tasks are not inherently better. The choice of strategy depends on the content, context and time. See Artifact 1 to know the spectrum of active-learning activities.
+There are different strategies for active learning that can be ordered in a spectrum that ranges from simple to complex tasks. Complex tasks are not inherently better. The choice of strategy depends on the content, context and time. See the artifact below to know the spectrum of active-learning activities.
 
 </p>
 <p>
-It has been proved that active learning can increase student performance in STEM courses <a href=" https://www.pnas.org/doi/10.1073/pnas.1319030111" target=_blank> (Freeman et al., 2014) </a> and several calls for incorporating active-learning instruction in the field courses have increased over the years.  However, it is important to recall that active learning activities are not efficacious on their on, they should be accompanied by effective and inclusive teaching strategies, that is why instructors should be supported such that they gain the ability and the knowledge to create inclusive and active learning supporting environments for students <a href=" https://www.lifescied.org/doi/10.1187/cbe.17-07-0149 " target=_blank>  (Auerbach et al, 2018) </a>.
+It has been proved that active learning can increase student performance in STEM courses <a href=" https://www.pnas.org/doi/10.1073/pnas.1319030111" target=_blank> (Freeman et al., 2014) </a> and several calls for incorporating active-learning instruction in the field courses have increased over the years.  However, it is important to recall that active learning activities are not efficacious on their on, they should be accompanied by effective and inclusive teaching strategies, that is why instructors should be supported such that they gain the ability and the knowledge to create inclusive and active learning supporting environments for students <a href=" https://www.lifescied.org/doi/10.1187/cbe.17-07-0149 " target=_blank>  (Auerbach et al, 2018)</a>.
 </p>
 </div>
 
@@ -72,14 +72,14 @@ Below you can find the slides of Dr. Goldberg and Dr. Hokanson in the workshop <
 </p>
 
 <p>
-Next,  we watched a video of an embodied case study on group work in the classroom. From this, we concluded that as instructors, to create an effective learning, we should we establish clear guidelines to work in groups. For example, all members should have equal participation and support each other, specially if someone is struggling with the material. Finally, in small groups we reflected on the broader value of embodied case studies
+Next,  we watched a video of an embodied case study on group work in the classroom. From this, we concluded that as instructors, to create an effective learning, we should we establish clear guidelines to work in groups. For example, all members should have equal participation and support each other, specially if someone is struggling with the material. Finally, in small groups we reflected on the broader value of embodied case studies.
 </p>
 
 <div class="buttons">
 
 <form action="/docs/workshops/Core competency 2 Effective learning artifact 2.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Workshop slides </button></form>
 
-<form action="/docs/workshops/Core competency 2 Effective learning artifact 2.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Continuum of learning strategies </button></form>
+<form action="/docs/workshops/Core competency 2 Effective learning artifact 1.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Continuum of learning strategies </button></form>
 
 <form action="/docs/workshops/Core competency 2 Effective learning material.pdf" class="form1" method="get" target="_blank"><button class="button_file"> My handwritten notes </button></form>
 </div>

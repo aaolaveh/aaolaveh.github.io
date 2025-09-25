@@ -24,12 +24,12 @@ It is worth noticing that generative AI (genAI) has become a transformative, and
 Some reasons educators could have to use technology in the classroom are:
 
 <ul>
-<li>Making the content more attractive and engaging </li>
-<li>Illustrating key concepts </li>
-<li> Facilitating communication instructor-student and student-student </li>
-<li> Connect with resources  </li>
-<li> Provide a practice of real-life scenarios </li>
-<li> Make a task easier </li>
+<li>Making the content more attractive and engaging. </li>
+<li>Illustrating key concepts. </li>
+<li> Facilitating communication instructor-student and student-student. </li>
+<li> Connect with resources.  </li>
+<li> Provide a practice of real-life scenarios. </li>
+<li> Make a task easier. </li>
 </ul>
 </p>
 <p>

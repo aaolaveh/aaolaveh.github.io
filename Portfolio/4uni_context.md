@@ -1,29 +1,31 @@
 ---
 
-layout: research
+layout: teaching
 
 ---
 
 <h1> Understanding the University Context </h1>
 
+<p>
 This competency emphasizes recognizing that the teaching environment extends beyond the classroom to the broader institution and using this awareness, to make informed and appropriate decisions in both teaching and professional practice.  It involves  understanding the university’s mission, vision, and values, the type of institution, its physical and academic resources, as well as students' demographics and culture's institution. 
+</p>
 
 <div class="block">
       <h2> Description </h2>
 <p>
 As educators, we should recognize that the teaching environment goes beyond the classroom. A complex interplay of factors, shapes and constrains our role as knowledge communicators.
 </p>
-<p>
 
+<p>
 To start with, the university's mission, vision, and values, as well as its specific type, shape the academic culture and the overall expectations of our activities in the classroom. Similarly, within the department, faculty superiors, the curriculum, and the structure of courses further define the guidelines of our classes. Finally, our students are influenced by the mentioned factors and bring their diverse backgrounds to the classroom like various levels of educational preparation, socioeconomic circumstances and cultural perspectives. 
 </p>
-<p>
 
+<p>
 From all these elements, the institutional factor has a huge impact on the job application process. First of all, the institution’s country. We live in a globalized world, and it is not rare to apply for jobs outside the US, especially for international graduate students. But that itself carries their own challenges. For example, I there are 3931 post-secondary institutions in the U.S. and 1345  of them offer a 4-year program in Math. In contrast, there are only 221  post-secondary institutions in Colombia and 41  of them offer a bachelor in Math. Therefore, job prospects constrains our role as math educators.
 </p>
-<p>
 
-A second factor to consider is the type of institution. In the US higher education includes research universities, comprehensive universities, liberal arts colleges, community colleges, minority-serving institutions and for-profit institutions. Each of these may operate as public, private, religiously affiliated, or fully online institutions. As a result, each type of institution carries its own academic culture, priorities, and expectations that educators should carefully consider when applying for positions. Moreover, each institution embeds its educational philosophy in its mission, vision and values statements. When the expectations of the institution align with the career aspirations of the educator, both benefit, creating the basis for a more productive and rewarding professional experience.
+<p>
+A second factor to consider is the type of institution. In the US higher education includes research universities, comprehensive universities, liberal arts colleges, community colleges, minority-serving institutions and for non-profit institutions. Each of these may operate as public, private, religiously affiliated, or fully online institutions. As a result, each type of institution carries its own academic culture, priorities, and expectations that educators should carefully consider when applying for positions. Moreover, each institution embeds its educational philosophy in its mission, vision and values statements. When the expectations of the institution align with the career aspirations of the educator, both benefit, creating the basis for a more productive and rewarding professional experience.
 </p>
 
 </div>
@@ -51,7 +53,7 @@ With this in mind, I will begin my job search with a more focused and intentiona
       <h2> Artifacts & materials </h2>
 
 <p>
-Below you can find the slides of Dr. Judith Stoddart for the workshop <em> Understanding the University Context— Aligning Teaching w/ Different Institutional Types & Missions </em>. We started our workshop by considering the number of postsecondary institutions in the USA as well as the different types of institutions in the country.
+Below you can find the slides of Dr. Judith Stoddart for the workshop <em> Understanding the University Context— Aligning Teaching w/ Different Institutional Types & Missions</em>. We started our workshop by considering the number of postsecondary institutions in the USA as well as the different types of institutions in the country.
 </p>
 
 <p>
