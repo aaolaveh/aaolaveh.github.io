@@ -8,6 +8,16 @@ excerpt: "Research"
 For a comprehensive list of my papers  <a href="/papers" target=_self> click here </a>.
 
 <div class="block">
+      <h2> Bounding the interleaving distance on concrete categories using a loss function </h2>
+<p>
+      <img src = "../images/functor_diagrams.gif" alt="Mapper graph" >
+      Joint with doctor Elizabeth Munch we generalized the loss function defined in <a href = "https://link.springer.com/article/10.1007/s41468-025-00215-x" target=_blank > Chambers et al., 2025 </a>, to bound the interleaving distance between generalized persistence modules on concrete categories. Our result opens up the potential for an algorithmic approach to bound from above the interleaving distance on commonly used constructions such as multiparameter persistence modules.
+
+If you want to know more, check the <a href="https://arxiv.org/abs/2601.09034" > full article </a>.   </p>
+
+</div>
+
+<div class="block">
       <h2> Generalizing the interleaving distance using categorical flows </h2>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxar6UuoGSk?si=k_5sWxVaCWNm8EBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>

@@ -8,7 +8,7 @@ logo: favicon/favicon2.ico
 owner:
   name: Astrid A. Olave H.
   avatar: astrid.jpg
-  bio1: " Mathematics is the language in which God has written the universe" 
+  bio1: " Mathematics is the language in which God has written the universe"
   bio2: "-Attributed to Galileo Galilei"
   email: olaveher@msu.edu
   # Do not include the @ symbol in your Twitter username
@@ -71,7 +71,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-  
+
 #-----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
@@ -80,7 +80,7 @@ scholar:
 
   style: decision-sciences
   locale: en
-  
+
   sort_by: year
   order: descending
 

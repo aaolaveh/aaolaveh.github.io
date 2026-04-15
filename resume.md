@@ -130,4 +130,4 @@ __Current Job Title__, Current Employer
 
 Click here to see <a href="../docs/CV_Astrid_Olave.pdf" target=_blank> full CV </a>
 
-Last updated: October 2025
+Last updated: April 2026
