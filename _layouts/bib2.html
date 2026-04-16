@@ -2,15 +2,51 @@
 ---
 
 <!-- Elements from https://gykovacsblog.wordpress.com/tag/jekyll-scholar/ and
-https://github.com/alshedivat/al-folio -->
+https://github.com/alshedivat/al-folio-->
 
-<div class="text-justify">{{reference}}</div>
+<h2>{{entry.title}} </h2>
+
+<h4>{{entry.author}} </h4>
+
+  <div class="grid-container">
+
+    {% if entry.img %}
+    <div>
+      <img src = "{{entry.img}}" >
+    </div>
+    {% endif %}
+
+    {% if entry.youtube %}
+    <div class="fluid-width-video-wrapper">
+    <iframe width="560" height="315" src="{{entry.youtube}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    {% endif %}
+
+
+    <div>
+
+    {% if entry.journal %}
+      <em> {{entry.journal}}, {{entry.year}} </em>
+      <br>
+      <br>
+    {% else %}
+        {% if entry.arxiv %}
+        <em> arXiv: {{entry.arxiv}}, {{entry.year}} </em>
+        <br>
+        <br>
+        {% endif %}
+    {% endif %}
+
+    {% if entry.comment %}
+       {{entry.comment}}
+    {% endif %}
+
 
     <div class="links">
 
        {% if entry.doi %}
     <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" class="button" role="button" target="_blank"> Published Version</a>
-{% endif %}
+  {% endif %}
 
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="button" role="button" target="_blank">arXiv Version</a>
@@ -67,22 +103,29 @@ https://github.com/alshedivat/al-folio -->
    </div>
 
    <div class="links">
-    {% if entry.abstract %}
+      {% if entry.abstract %}
 
-    	<button class="button2"  onclick="toggleBibtex('Abs-{{entry.key}}')"> Abstract >> </button>
+        <button class="button2"  onclick="toggleBibtex('Abs-{{entry.key}}')"> Abstract >> </button>
 
-    {% endif %}
+        <button class="button2"  onclick="toggleBibtex('Bibtex-{{entry.key}}')"> Bibtex >> </button>
 
-    	<button class="button2"  onclick="toggleBibtex('Bibtex-{{entry.key}}')"> Bibtex >> </button>
+      {% endif %}
+
+
+      </div>
+
+    <div id="Bibtex-{{ entry.key }}" style="display: none;">
+    <pre>{{entry.bibtex}}</pre>
     </div>
 
-<div id="Bibtex-{{ entry.key }}" style="display: none;">
-<pre>{{entry.bibtex}}</pre>
-</div>
+    <div id="Abs-{{ entry.key }}" style="display: none;">
+    <p> {{entry.abstract}} </p>
+    </div>
 
-<div id="Abs-{{ entry.key }}" style="display: none;">
-<p> {{entry.abstract}} </p>
-</div>
+   </div>
+  </div>
+
+
 
 <script>
 function toggleBibtex(parameter) {
