@@ -5,40 +5,9 @@ excerpt: "Research"
 
 <h1> Research </h1>
 
-For a comprehensive list of my papers  <a href="/papers" target=_self> click here </a>.
+For a comprehensive list of my papers  <a href="../papers" target=_self> click here </a>.
 
-<div class="block">
-      <h2> Bounding the interleaving distance on concrete categories using a loss function </h2>
-<p>
-      <img src = "../images/functor_diagrams.gif" alt="Mapper graph" >
-      Joint with doctor Elizabeth Munch we generalized the loss function defined in <a href = "https://link.springer.com/article/10.1007/s41468-025-00215-x" target=_blank > Chambers et al., 2025 </a>, to bound the interleaving distance between generalized persistence modules on concrete categories. Our result opens up the potential for an algorithmic approach to bound from above the interleaving distance on commonly used constructions such as multiparameter persistence modules.
-
-If you want to know more, check the <a href="https://arxiv.org/abs/2601.09034" > full article </a>.   </p>
-
-</div>
-
-<div class="block">
-      <h2> Generalizing the interleaving distance using categorical flows </h2>
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxar6UuoGSk?si=k_5sWxVaCWNm8EBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>
-      <br> Interleaving distance is a measure of similarity between persistence modules and it's been a central concept in algebraic topology and topological data analysis. Through a guiding example, this video introduces categorical flows—a functorial operation that extends the interleaving distance into a measure between objects of virtually any category. This video is part of the <a href = "https://youtube.com/playlist?list=PL4kY-dS_mSmIkOQ4lHtSMyxONiyTFqxMe&si=sLTatL6UbLLMRko_" target = blank> tutorial-a-thon 2025 Spring </a> by the Applied Algebraic Topology Research Network (AATRN) <br> <br>  </p>
- 
-</div>
-
-<div class="block">
-      <h2> Revealing brain network dynamics during the emotional state of suspense using topological data analysis </h2>
-<p>
-     <img src = "../images/chosen_mapper.png" alt="Mapper graph" >
-      <br>  Joint with doctors Francisco Gomez  and  Jose Perea we applied a tool from Topological Data Analysis (TDA) <a href="https://diglib.eg.org/handle/10.2312/SPBG.SPBG07.091-100" target=_blank > Mapper </a>,  to find the relation of brain dynamics and suspense. As result, we found changes in the functional connectivity within and between large-scale networks associated with the level of suspense. 
-
-If you want to know more, check the <a href="https://doi.org/10.1162/netn.a.34" > full article </a> or see all the details in my <a href="https://repositorio.unal.edu.co/handle/unal/81235" target=_blank > master's thesis </a> .  <br> <br>  </p>
+{% bibliography -f all_research %}
 
 
-</div>
 
-<div class="block">
-      <h2> Persistent Homology for clusterization of RNA secondary structures </h2>
-     <img src = "../images/comp_bar20.gif" alt="persistent homology 	animation">
-      <p> As part of my <a href="../docs/Thesis_Persistent_homology_analysis_of_RNA_secondary_structures.pdf" target=_blank > bachelor's thesis </a> I worked with Professors Gustavo Rubiano and Clara Bermudez applying persistent homology to cluster RNA secondary structures. We interpreted the 0-homology classes (connected-components) as clusters, resulting a method comparable to hierarchical clustering. </p>
-
-</div>
