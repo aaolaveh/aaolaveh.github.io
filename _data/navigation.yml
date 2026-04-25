@@ -4,17 +4,16 @@
 
 - title: Research
   url: /research/
-  sublinks:
-    - title: Papers
-      url: /papers/
 
 - title: Teaching
   url: /teaching/
   sublinks:
+    - title: Experience
+      url: /teaching/
     - title: Teaching Philosophy
-      url: /teaching_potfolio/
+      url: /docs/teaching_statement_Astrid_Olave.pdf
     - title: Certification in College Teaching
-      url: /teaching_potfolio/
+      url: /Portfolio/teaching_portfolio#CCTI
 - title: CV
   url: /resume/
 

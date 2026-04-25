@@ -15,7 +15,18 @@
 				        {% else %}
 				        {% assign domain = site.github.url %}
 				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+				    <li> <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
+
+						{% if link.sublinks %}
+						<ul class="dropdown-content">
+								{% for sublink in link.sublinks %}
+									<li>
+											<a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a>
+									</li>
+							{% endfor %}
+						</ul>
+						{% endif %}
+						 </li>
 				{% endfor %}
 		    </ul>
 		</nav>
