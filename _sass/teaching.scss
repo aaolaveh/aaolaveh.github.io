@@ -45,6 +45,12 @@
    display: block;
  }
 
+ @media (max-width: 900px){
+   .buttons{
+       margin-top: 1em;
+   }
+}
+
 .form1{
   display: inline;
 }
@@ -52,7 +58,7 @@
 .button_blue {
   background-color: $highlightcolor ; /* Background color (blue) */
   color: white; /* Text color */
-  padding: 15px 20px; /* Padding inside the button */
+  padding: 10px 15px; /* Padding inside the button */
   border: none; /* No border */
   border-radius: 8px; /* Rounded corners */
   text-align: center; /* Center the text */

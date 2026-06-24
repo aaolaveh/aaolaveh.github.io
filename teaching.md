@@ -1,9 +1,8 @@
 ---
 layout: OG_resume
+title: Teaching
 excerpt: "Teaching experience"
 ---
-
-<h1> Teaching </h1>
 
 I am passionate about helping students to obtain the mathematical skills they need to thrive in their academic and professional goals.  My end goal is nurturing their mathematical learning  through a holistic approach of their humanity.
 
@@ -12,8 +11,8 @@ I am passionate about helping students to obtain the mathematical skills they ne
 
 ## Current
 <p>
-<strong> MTH299 - Transitions (Introduction to higher mathematics)</strong> <br>
-<li> Spring 2026: Teaching Assistant </li> 
+<strong> MTH101 - Quantitative literacy </strong> <br>
+<li> Summer 2026: Teaching Assistant </li> 
 </p>
 
 
@@ -28,6 +27,7 @@ Computational Applications </strong> <br>
 
 <p>
 <strong> MTH299 - Transitions (Introduction to higher mathematics)</strong> <br>
+<li> Spring 2026: Teaching Assistant </li>
 <li> Fall 2025: Teaching Assistant </li> 
 </p>
 
@@ -62,7 +62,7 @@ Computational Applications </strong> <br>
 ## Teaching Adjacent Experience
 
 <li>
-In Summer 2026, I will serve as a mentor in the <a href="https://sites.google.com/msu.edu/msutopologyrtg/activities/summer-topology-program-2026" target=_blank> MSU Summer Topology Program </a>, guiding undergraduate students through independent study projects focused on topics in topology.
+In Summer 2026, I am serving as a mentor in the <a href="https://sites.google.com/msu.edu/msutopologyrtg/activities/summer-topology-program-2026" target=_blank> MSU Summer Topology Program </a>, guiding undergraduate students through independent study projects focused on topics in topology.
 </li> 
 
 <li>

@@ -4,6 +4,13 @@
 
 - title: Research
   url: /research/
+  sublinks:
+    - title: Overview
+      url: /research/
+    - title: Publications
+      url: /papers
+    - title: Talks and slides
+      url: /presentations
 
 - title: Teaching
   url: /teaching/

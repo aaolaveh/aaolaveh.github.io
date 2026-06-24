@@ -58,12 +58,23 @@
     column-gap: 20px;
 }
 
+.grid-container-slides {
+    display: grid;
+    place-items: left;
+    /* First column 80%; second column fills the rest */
+    grid-template-columns: 80% 1fr;
+    column-gap: 20px;
+    margin-top: 2em;
+}
+
 @media (max-width: 900px){
+  .grid-container-slides {
+      grid-template-columns: 1fr;
+  }
   .grid-container {
       grid-template-columns: 1fr;
   }
 }
-
 
 .links{
   a.button{

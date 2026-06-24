@@ -6,7 +6,7 @@ excerpt: CV
 ## Current
   <div class = "row">
       <div class="column left">
-          <p> <code> 2025 </code> </p>
+          <p> <code> 2027 </code> </p>
       </div>
       <div class="column right">
           <strong> Michigan State University </strong>
@@ -130,4 +130,4 @@ __Current Job Title__, Current Employer
 
 Click here to see <a href="../docs/CV_Astrid_Olave.pdf" target=_blank> full CV </a>
 
-Last updated: April 2026
+Last updated: June 2026

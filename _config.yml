@@ -78,7 +78,7 @@ kramdown:
 
 scholar:
 
-  style: decision-sciences
+  style: /_bibliography/decision-sciences.csl
   locale: en
 
   sort_by: year

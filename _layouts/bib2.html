@@ -30,8 +30,8 @@ https://github.com/alshedivat/al-folio-->
       <br>
       <br>
     {% else %}
-        {% if entry.arxiv %}
-        <em> arXiv: {{entry.arxiv}}, {{entry.year}} </em>
+        {% if entry.eprint %}
+        <em> arXiv: {{entry.eprint}}, {{entry.year}} </em>
         <br>
         <br>
         {% endif %}
@@ -48,8 +48,8 @@ https://github.com/alshedivat/al-folio-->
     <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" class="button" role="button" target="_blank"> Published Version</a>
   {% endif %}
 
-    {% if entry.arxiv %}
-      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="button" role="button" target="_blank">arXiv Version</a>
+    {% if entry.eprint %}
+      <a href="http://arxiv.org/abs/{{ entry.eprint }}" class="button" role="button" target="_blank"> arXiv Version</a>
     {% endif %}
 
     {% if entry.biorxiv %}
