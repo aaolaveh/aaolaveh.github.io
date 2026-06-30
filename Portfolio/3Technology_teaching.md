@@ -1,11 +1,10 @@
 ---
 
 layout: teaching
+title: Incorporating technology in your teaching
+excerpt: "Incorporating technology in your teaching"
 
 ---
-
-
-<h1> Incorporating technology in your teaching </h1>
 
 This competency focuses on the effective selection and integration of digital and physical tools, applications and virtual platforms to promote and enhance students' learning, engagement, assessment and accessibility. It encompasses staying informed about current technologies, selecting tools that best align with instructional goals, designing lessons that thoughtfully incorporate these technologies and ensuring equitable access to such technologies.
 
@@ -34,7 +33,7 @@ Some reasons educators could have to use technology in the classroom are:
 </p>
 <p>
 
-The first step to even thinking using technology in the classroom is to develop a learning objective that is <b> SMART </b>: <b> S</b>pecific, <b> M</b>easurable, <b> A</b>ttainable, <b>R</b>elevant and <b> T</b>ime-bound. Such learning objective can be written using Bloom’s taxonomy of measurable verbs. After having a SMART objective we can choose a technology to work with that will help to achieve the learning objective in our learning context.
+The first step to even thinking using technology in the classroom is to develop a learning objective that is <b>SMART</b>: <b> S</b>pecific, <b> M</b>easurable, <b> A</b>ttainable, <b>R</b>elevant and <b> T</b>ime-bound. Such learning objective can be written using Bloom’s taxonomy of measurable verbs. After having a SMART objective we can choose a technology to work with that will help to achieve the learning objective in our learning context.
 
 </p>
 </div>
@@ -42,7 +41,7 @@ The first step to even thinking using technology in the classroom is to develop 
 <div class="block">
       <h2> Reflection </h2>
 <p>
-Along human history, technology has impacted several teaching and learning practices. Side rules have been replaced by calculators, searching books in public libraries have been replaced by google searches, classrooms have become zoom calls and learning from an expert is watching their explanation videos on YouTube. But it should not be surprising. “Technology is, by definition, disruptive. It enables scientific knowledge to support the achievement of practical goals of human life, but, as a byproduct, it also reshapes activities and behaviours, and thus it must be regulated”  <a href = "https://doi.org/10.1080/0144929X.2024.2394886" target=_blank> (Giannakos et al., 2024) </a>. Therefore, as educators and learners, we should embrace new technologies with a thoughtful an ethical approach, integrating them in the teaching and learning process while working to mitigate potential risks.
+Along human history, technology has impacted several teaching and learning practices. Side rules have been replaced by calculators, searching books in public libraries have been replaced by google searches, classrooms have become zoom calls and learning from an expert is watching their explanation videos on YouTube. But it should not be surprising. “Technology is, by definition, disruptive. It enables scientific knowledge to support the achievement of practical goals of human life, but, as a byproduct, it also reshapes activities and behaviours, and thus it must be regulated”  <a href = "https://doi.org/10.1080/0144929X.2024.2394886" target=_blank> (Giannakos et al., 2024)</a>. Therefore, as educators and learners, we should embrace new technologies with a thoughtful an ethical approach, integrating them in the teaching and learning process while working to mitigate potential risks.
 
 </p>
 

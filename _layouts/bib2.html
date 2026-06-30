@@ -53,7 +53,11 @@ https://github.com/alshedivat/al-folio-->
     {% endif %}
 
     {% if entry.biorxiv %}
-      <a href="https://www.biorxiv.org/content/10.1101/{{ entry.biorxiv }}" class="button" role="button" target="_blank">arXiv Version</a>
+      <a href="https://www.biorxiv.org/content/10.1101/{{ entry.biorxiv }}" class="button" role="button" target="_blank"> bioRxiv Version</a>
+    {% endif %}
+
+    {% if entry.arxiv %}
+      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="button" role="button" target="_blank"> arXiv Version</a>
     {% endif %}
 
     {% if entry.pdf %}

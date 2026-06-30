@@ -3,6 +3,10 @@ layout: OG_resume
 excerpt: CV
 ---
 
+
+You can take a look to my <a href="../docs/CV_Astrid_Olave.pdf" target=_blank> full CV</a>.
+For a comprehensive list of my papers see <a href="/papers" target=_self> Publications</a>.
+
 ## Current
   <div class = "row">
       <div class="column left">
@@ -127,7 +131,5 @@ __Current Job Title__, Current Employer
 
 
 ### Footer
-
-Click here to see <a href="../docs/CV_Astrid_Olave.pdf" target=_blank> full CV </a>
 
 Last updated: June 2026

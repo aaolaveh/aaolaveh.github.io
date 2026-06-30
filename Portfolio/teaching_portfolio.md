@@ -1,15 +1,15 @@
 ---
 layout: teaching
+title: Teaching Portfolio
+excerpt: "Teaching portfolio"
 ---
 
-<h1> Teaching Portfolio </h1>
 
 <div class="block">
       <h2 id = "statement"> Teaching Philosophy </h2>
 
-<p>I decided to pursue a PhD because I want to be a professor. As an educator, I aim to create a personalized experience for my students, make them feel I care about them individually. This means supporting them <em> inside the classroom </em> by helping them to master the art of doing mathematics trough repetition, independent problem-solving, and collaborative work and 
-<em> outside the classroom </em>, remaining mindful of the responsibilities and their interests beyond academia. <br>
-If you are curious on how these ideas shape my teaching, you can explore my <a href="/docs/teaching_statement_Astrid_Olave.pdf" target=_blank > full statement </a>
+<p>I decided to pursue a PhD because I want to be a professor. As an educator, I aim to create a personalized experience for my students, make them feel I care about them individually. This means supporting them <em> inside the classroom </em> by helping them to master the art of doing mathematics trough repetition, independent problem-solving, and collaborative work and <em>outside the classroom</em>, remaining mindful of the responsibilities and their interests beyond academia. <br>
+If you are curious on how these ideas shape my teaching, you can explore my <a href="/docs/teaching_statement_Astrid_Olave.pdf" target=_blank > full statement</a>.
 </p>
 
 

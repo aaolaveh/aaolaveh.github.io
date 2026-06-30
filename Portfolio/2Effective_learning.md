@@ -1,11 +1,10 @@
 ---
 
 layout: teaching
+title: Creating effective learning environments
+excerpt: "Creating effective learning environments"
 
 ---
-
-
-<h1> Creating effective learning environments </h1>
 
 This ability focuses on strategies that promote questioning, comparison of ideas, problem solving, participation and communication skills. This competency involves integrating active learning techniques, such as group work, applications of concepts to real life problems, small and large group discussions and interactive lectures.
 
@@ -58,7 +57,7 @@ At the same time I have recognized different areas of improvement. These are som
 
 <br>
 
-As I have gained more experience implementing these strategies, I have become better at planning lessons more effectively, both in terms of timing and subject matter, and I have increased my confidence in applying them.  Challenges remain—such as determining the optimal number of activities in the classroom or finding ways to engage students who are less motivated by these methods, but I remain committed to further developing my skills in active and inclusive teaching practices.
+As I have gained more experience implementing these strategies, I have become better at planning lessons more effectively, both in terms of timing and subject matter, and I have increased my confidence in applying them.  Challenges remain, such as determining the optimal number of activities in the classroom or finding ways to engage students who are less motivated by these methods, but I remain committed to further developing my skills in active and inclusive teaching practices.
  
 </p>
 </div>
@@ -68,7 +67,7 @@ As I have gained more experience implementing these strategies, I have become be
 
 <p>
 
-Below you can find the slides of Dr. Goldberg and Dr. Hokanson in the workshop <em> Infusing Active Learning with Inclusive Practices </em>  These slides define active learning and highlight its purpose in the classroom. One take away is that no learning strategy is not inherently better than another but their use depends on the goal and the learning context. We can order such strategies in a continuum , starting from short and unstructured task to more elaborated and complex tasks. 
+Below you can find the slides of Dr. Goldberg and Dr. Hokanson in the workshop <em> Infusing Active Learning with Inclusive Practices</em>.  These slides define active learning and highlight its purpose in the classroom. One take away is that no learning strategy is not inherently better than another but their use depends on the goal and the learning context. We can order such strategies in a continuum , starting from short and unstructured task to more elaborated and complex tasks. 
 </p>
 
 <p>

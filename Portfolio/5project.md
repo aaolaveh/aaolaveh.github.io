@@ -1,12 +1,9 @@
 ---
 
 layout: teaching 
-
+title: Students’ perspectives of the use of Khanmigo as a mathematics AI tutor
+excerpt: "Students’ perspectives of the use of Khanmigo as a mathematics AI tutor"
 ---
-
-
-<h1> Students’ perspectives of the use of Khanmigo as a
-mathematics AI tutor </h1>
 
 
 <div class="block">

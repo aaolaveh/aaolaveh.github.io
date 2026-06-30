@@ -1,10 +1,10 @@
 ---
 
 layout: teaching
+title: Understanding the University Context
+excerpt: "Understanding the University Context"
 
 ---
-
-<h1> Understanding the University Context </h1>
 
 <p>
 This competency emphasizes recognizing that the teaching environment extends beyond the classroom to the broader institution and using this awareness, to make informed and appropriate decisions in both teaching and professional practice.  It involves  understanding the university’s mission, vision, and values, the type of institution, its physical and academic resources, as well as students' demographics and culture's institution. 
@@ -61,7 +61,6 @@ The workshop highlighted that teaching and learning environments are larger than
 </p>
 
 
-
 <div class="buttons">
 <form action="/docs/workshops/Core competency 4 University Context artifact 1.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Workshop slides </button></form>
 
@@ -70,13 +69,13 @@ The workshop highlighted that teaching and learning environments are larger than
 
 <form action="/docs/workshops/Core competency 4 University Context artifact 3.pdf" class="form1" method="get" target="_blank"><button class="button_file"> Samples of institutional statements </button></form>
 
-
 </div>
 
 
 <p>
-Also, you can see the notes I took in this workshop 
+Also, you can see the notes I took in this workshop. 
 </p>
+
 <div class="buttons">
 <form action="/docs/workshops/Core competency 4 University Context material.pdf" class="form1" method="get" target="_blank"><button class="button_file"> My handwritten notes </button></form>
 </div>
